@@ -30,9 +30,7 @@ Keep track of your selected products with our convenient shopping cart feature. 
 ### 🎨 Aesthetically Pleasing
 Experience the beauty of skincare with our visually appealing design. The website incorporates soothing colors, elegant fonts, and high-quality images to create an atmosphere of tranquility and wellness.
 
-<p align="center">
-  <img src="images/aesthetically-pleasing.jpg" alt="Aesthetically Pleasing" width="800">
-</p>
+
 
 ## Technologies Used
 
